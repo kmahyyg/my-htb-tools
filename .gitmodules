@@ -1,0 +1,9 @@
+[submodule "linux-smart-enumeration"]
+	path = linux-smart-enumeration
+	url = https://github.com/diego-treitos/linux-smart-enumeration
+[submodule "LinEnum"]
+	path = LinEnum
+	url = https://github.com/rebootuser/LinEnum
+[submodule "pspy"]
+	path = pspy
+	url = https://github.com/DominicBreuker/pspy

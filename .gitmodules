@@ -7,3 +7,6 @@
 [submodule "pspy"]
 	path = pspy
 	url = https://github.com/DominicBreuker/pspy
+[submodule "dictionaries"]
+	path = dictionaries
+	url = https://github.com/dustyfresh/dictionaries

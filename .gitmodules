@@ -16,3 +16,6 @@
 [submodule "total-oscp-guide"]
 	path = total-oscp-guide
 	url = https://github.com/xapax/security.git
+[submodule "linuxprivchecker"]
+	path = linuxprivchecker
+	url = https://github.com/sleventyeleven/linuxprivchecker.git

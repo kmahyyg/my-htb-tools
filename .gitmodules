@@ -10,3 +10,6 @@
 [submodule "dictionaries"]
 	path = dictionaries
 	url = https://github.com/dustyfresh/dictionaries
+[submodule "pentestmonkey-php-reverse-shell"]
+	path = pentestmonkey-php-reverse-shell
+	url = https://github.com/pentestmonkey/php-reverse-shell.git

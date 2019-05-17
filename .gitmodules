@@ -13,3 +13,6 @@
 [submodule "pentestmonkey-php-reverse-shell"]
 	path = pentestmonkey-php-reverse-shell
 	url = https://github.com/pentestmonkey/php-reverse-shell.git
+[submodule "total-oscp-guide"]
+	path = total-oscp-guide
+	url = https://github.com/xapax/security.git

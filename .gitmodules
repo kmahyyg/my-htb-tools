@@ -22,3 +22,6 @@
 [submodule "checksec.sh"]
 	path = checksec.sh
 	url = https://github.com/slimm609/checksec.sh/
+[submodule "windows-kernel-exploits"]
+	path = windows-kernel-exploits
+	url = https://github.com/SecWiki/windows-kernel-exploits

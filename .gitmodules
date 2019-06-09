@@ -25,3 +25,9 @@
 [submodule "windows-kernel-exploits"]
 	path = windows-kernel-exploits
 	url = https://github.com/SecWiki/windows-kernel-exploits
+[submodule "gobuster"]
+	path = gobuster
+	url = https://github.com/OJ/gobuster
+[submodule "phpbash"]
+	path = phpbash
+	url = https://github.com/Arrexel/phpbash.git

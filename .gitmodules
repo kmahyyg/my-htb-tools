@@ -31,3 +31,6 @@
 [submodule "phpbash"]
 	path = phpbash
 	url = https://github.com/Arrexel/phpbash.git
+[submodule "static-binaries"]
+	path = static-binaries
+	url = https://github.com/andrew-d/static-binaries

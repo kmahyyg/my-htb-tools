@@ -34,3 +34,6 @@
 [submodule "static-binaries"]
 	path = static-binaries
 	url = https://github.com/andrew-d/static-binaries
+[submodule "powercat"]
+	path = powercat
+	url = https://github.com/besimorhino/powercat.git

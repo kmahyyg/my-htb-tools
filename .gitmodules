@@ -37,3 +37,6 @@
 [submodule "powercat"]
 	path = powercat
 	url = https://github.com/besimorhino/powercat.git
+[submodule "mimikatz"]
+	path = mimikatz
+	url = https://github.com/gentilkiwi/mimikatz

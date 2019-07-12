@@ -40,3 +40,9 @@
 [submodule "mimikatz"]
 	path = mimikatz
 	url = https://github.com/gentilkiwi/mimikatz
+[submodule "impacket"]
+	path = impacket
+	url = https://github.com/SecureAuthCorp/impacket
+[submodule "PowerSploit"]
+	path = PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit

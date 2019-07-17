@@ -46,3 +46,9 @@
 [submodule "PowerSploit"]
 	path = PowerSploit
 	url = https://github.com/PowerShellMafia/PowerSploit
+[submodule "SecLists"]
+	path = SecLists
+	url = https://github.com/danielmiessler/SecLists
+[submodule "PayloadsAllTheThings"]
+	path = PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings

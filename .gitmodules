@@ -52,3 +52,6 @@
 [submodule "PayloadsAllTheThings"]
 	path = PayloadsAllTheThings
 	url = https://github.com/swisskyrepo/PayloadsAllTheThings
+[submodule "ysoserial"]
+	path = ysoserial
+	url = https://github.com/pimps/ysoserial-modified

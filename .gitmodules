@@ -55,3 +55,6 @@
 [submodule "ysoserial"]
 	path = ysoserial
 	url = https://github.com/pimps/ysoserial-modified
+[submodule "Infosec_Reference"]
+	path = Infosec_Reference
+	url = https://github.com/rmusser01/Infosec_Reference

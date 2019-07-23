@@ -58,3 +58,6 @@
 [submodule "Infosec_Reference"]
 	path = Infosec_Reference
 	url = https://github.com/rmusser01/Infosec_Reference
+[submodule "CyberChef"]
+	path = CyberChef
+	url = https://github.com/gchq/CyberChef

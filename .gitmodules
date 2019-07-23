@@ -61,3 +61,6 @@
 [submodule "CyberChef"]
 	path = CyberChef
 	url = https://github.com/gchq/CyberChef
+[submodule "linPE"]
+	path = linPE
+	url = https://github.com/carlospolop/linPE

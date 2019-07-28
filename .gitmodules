@@ -64,3 +64,6 @@
 [submodule "linPE"]
 	path = linPE
 	url = https://github.com/carlospolop/linPE
+[submodule "jivoi-pentesttools"]
+	path = jivoi-pentesttools
+	url = https://github.com/jivoi/pentest

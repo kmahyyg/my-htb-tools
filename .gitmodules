@@ -67,3 +67,6 @@
 [submodule "jivoi-pentesttools"]
 	path = jivoi-pentesttools
 	url = https://github.com/jivoi/pentest
+[submodule "MSSRC-WindowsExploits"]
+	path = MSSRC-WindowsExploits
+	url = https://github.com/abatchy17/WindowsExploits

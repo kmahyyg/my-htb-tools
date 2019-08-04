@@ -76,3 +76,6 @@
 [submodule "Evil-WinRAR-Gen"]
 	path = Evil-WinRAR-Gen
 	url = git@github.com:manulqwerty/Evil-WinRAR-Gen.git
+[submodule "Salsa-tools"]
+	path = Salsa-tools
+	url = git@github.com:Hackplayers/Salsa-tools.git

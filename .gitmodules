@@ -73,3 +73,6 @@
 [submodule "Invoke-Obfuscation"]
 	path = Invoke-Obfuscation
 	url = https://github.com/danielbohannon/Invoke-Obfuscation
+[submodule "Evil-WinRAR-Gen"]
+	path = Evil-WinRAR-Gen
+	url = git@github.com:manulqwerty/Evil-WinRAR-Gen.git

@@ -79,3 +79,6 @@
 [submodule "Salsa-tools"]
 	path = Salsa-tools
 	url = git@github.com:Hackplayers/Salsa-tools.git
+[submodule "psh-nishang"]
+	path = psh-nishang
+	url = https://github.com/samratashok/nishang

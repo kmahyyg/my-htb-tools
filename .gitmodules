@@ -91,3 +91,6 @@
 [submodule "psh-empire"]
 	path = psh-empire
 	url = https://github.com/kmahyyg/Empire.git
+[submodule "libc-database"]
+	path = libc-database
+	url = git@github.com:niklasb/libc-database.git

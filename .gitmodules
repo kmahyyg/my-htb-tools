@@ -88,3 +88,6 @@
 [submodule "csharp-missHotFix-watson"]
 	path = csharp-missHotFix-watson
 	url = https://github.com/rasta-mouse/Watson
+[submodule "psh-empire"]
+	path = psh-empire
+	url = https://github.com/kmahyyg/Empire.git

@@ -82,3 +82,9 @@
 [submodule "psh-nishang"]
 	path = psh-nishang
 	url = https://github.com/samratashok/nishang
+[submodule "psh-sherlock"]
+	path = psh-sherlock
+	url = https://github.com/rasta-mouse/Sherlock
+[submodule "csharp-missHotFix-watson"]
+	path = csharp-missHotFix-watson
+	url = https://github.com/rasta-mouse/Watson

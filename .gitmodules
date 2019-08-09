@@ -97,3 +97,6 @@
 [submodule "fuzzbunch"]
 	path = fuzzbunch
 	url = git@github.com:fuzzbunch/fuzzbunch.git
+[submodule "Chankro"]
+	path = Chankro
+	url = git@github.com:TarlogicSecurity/Chankro

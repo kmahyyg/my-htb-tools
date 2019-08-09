@@ -94,3 +94,6 @@
 [submodule "libc-database"]
 	path = libc-database
 	url = git@github.com:niklasb/libc-database.git
+[submodule "fuzzbunch"]
+	path = fuzzbunch
+	url = git@github.com:fuzzbunch/fuzzbunch.git

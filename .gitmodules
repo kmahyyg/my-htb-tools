@@ -103,3 +103,6 @@
 [submodule "uacme"]
 	path = uacme
 	url = https://github.com/hfiref0x/UACME
+[submodule "Veil"]
+	path = Veil
+	url = https://github.com/Veil-Framework/Veil

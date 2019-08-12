@@ -100,3 +100,6 @@
 [submodule "Chankro"]
 	path = Chankro
 	url = git@github.com:TarlogicSecurity/Chankro
+[submodule "uacme"]
+	path = uacme
+	url = https://github.com/hfiref0x/UACME

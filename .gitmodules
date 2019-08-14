@@ -118,3 +118,6 @@
 [submodule "WinPwnage"]
 	path = WinPwnage
 	url = https://github.com/rootm0s/WinPwnage
+[submodule "winrm-console"]
+	path = winrm-console
+	url = https://github.com/Hackplayers/evil-winrm

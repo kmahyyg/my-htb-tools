@@ -106,3 +106,15 @@
 [submodule "Veil"]
 	path = Veil
 	url = https://github.com/Veil-Framework/Veil
+[submodule "Awesome-Red-Teaming"]
+	path = Awesome-Red-Teaming
+	url = https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+[submodule "uacbypass_csharp"]
+	path = uacbypass_csharp
+	url = https://github.com/kmahyyg/uacbypass_juliourena
+[submodule "GreatSCT"]
+	path = GreatSCT
+	url = https://github.com/GreatSCT/GreatSCT
+[submodule "WinPwnage"]
+	path = WinPwnage
+	url = https://github.com/rootm0s/WinPwnage

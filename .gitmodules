@@ -118,3 +118,6 @@
 [submodule "WinPwnage"]
 	path = WinPwnage
 	url = https://github.com/rootm0s/WinPwnage
+[submodule "firefox_decrypt"]
+	path = firefox_decrypt
+	url = https://github.com/unode/firefox_decrypt

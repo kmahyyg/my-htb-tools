@@ -121,3 +121,6 @@
 [submodule "firefox_decrypt"]
 	path = firefox_decrypt
 	url = https://github.com/unode/firefox_decrypt
+[submodule "winrm-console"]
+	path = winrm-console
+	url = https://github.com/Hackplayers/evil-winrm

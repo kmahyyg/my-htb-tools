@@ -124,3 +124,6 @@
 [submodule "winrm-console"]
 	path = winrm-console
 	url = https://github.com/Hackplayers/evil-winrm
+[submodule "figo"]
+	path = figo
+	url = https://github.com/kmahyyg/figo

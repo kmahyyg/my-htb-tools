@@ -127,3 +127,6 @@
 [submodule "figo"]
 	path = figo
 	url = https://github.com/kmahyyg/figo
+[submodule "odat"]
+	path = odat
+	url = git@github.com:quentinhardy/odat.git

@@ -130,3 +130,6 @@
 [submodule "ysoserial_aspnet"]
 	path = ysoserial_aspnet
 	url = https://github.com/pwntester/ysoserial.net
+[submodule "odat"]
+	path = odat
+	url = git@github.com:quentinhardy/odat.git

@@ -136,3 +136,6 @@
 [submodule "py2_pret"]
 	path = py2_pret
 	url = https://github.com/RUB-NDS/PRET
+[submodule "setoolkit"]
+	path = setoolkit
+	url = https://github.com/trustedsec/social-engineer-toolkit

@@ -67,7 +67,7 @@ def main():
     parser.add_argument("IP",  help="IP address to scan.")
     parser.add_argument("-tp", "--tcp-ports", dest="tcp_ports", default="1-65535", help="List of ports/port ranges to scan (TCP only).")
     parser.add_argument("-up", "--udp-ports", dest="udp_ports", default="1-65535", help="List of ports/port ranges to scan (UDP only).")
-    parser.add_argument("-r", "--max-rate", dest="max_rate", default=500, type=int, help="Send packets no faster than <number> per second")
+    parser.add_argument("-r", "--max-rate", dest="max_rate", default=1000, type=int, help="Send packets no faster than <number> per second")
     parser.add_argument("-o", "--output", dest="outfile", help="File to write output to.")
     args = parser.parse_args()
     

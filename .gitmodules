@@ -139,3 +139,6 @@
 [submodule "setoolkit"]
 	path = setoolkit
 	url = https://github.com/trustedsec/social-engineer-toolkit
+[submodule "RsaCtfTool"]
+	path = RsaCtfTool
+	url = git@github.com:Ganapati/RsaCtfTool.git

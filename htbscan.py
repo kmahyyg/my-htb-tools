@@ -24,9 +24,9 @@ def run_command(command):
     return output
  
 
-def enum(ip, ports, max_rate, outfile=None):
+def enum(ip, ports, max_rate, iface, outfile=None):
     # Running masscan
-    cmd = ["sudo", "masscan", "-e", "tun0", "-p" + ports,
+    cmd = ["sudo", "masscan", "-e", iface, "-p" + ports,
            "--max-rate", str(max_rate), "--interactive", ip]
     output = run_command(cmd)
     if outfile:
@@ -67,6 +67,7 @@ def main():
     parser.add_argument("IP",  help="IP address to scan.")
     parser.add_argument("-tp", "--tcp-ports", dest="tcp_ports", default="1-65535", help="List of ports/port ranges to scan (TCP only).")
     parser.add_argument("-up", "--udp-ports", dest="udp_ports", default="1-65535", help="List of ports/port ranges to scan (UDP only).")
+    parser.add_argument("-e", "--interface", dest="iface", default="tun0", help="Interface you wanna use.")
     parser.add_argument("-r", "--max-rate", dest="max_rate", default=1000, type=int, help="Send packets no faster than <number> per second")
     parser.add_argument("-o", "--output", dest="outfile", help="File to write output to.")
     args = parser.parse_args()
@@ -85,9 +86,9 @@ def main():
     # Write to file?
     if args.outfile:
         with open(args.outfile, "at") as outfile:
-            enum(args.IP, ports, args.max_rate, outfile)
+            enum(args.IP, ports, args.max_rate, args.iface, outfile)
     else:
-        enum(args.IP, ports, args.max_rate)
+        enum(args.IP, ports, args.max_rate, args.iface)
         
     
 if __name__ == "__main__":

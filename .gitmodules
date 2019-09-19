@@ -142,3 +142,12 @@
 [submodule "RsaCtfTool"]
 	path = RsaCtfTool
 	url = git@github.com:Ganapati/RsaCtfTool.git
+[submodule "Struts2-Scan"]
+	path = Struts2-Scan
+	url = https://github.com/HatBoy/Struts2-Scan
+[submodule "reGeorg"]
+	path = reGeorg
+	url = https://github.com/sensepost/reGeorg.git
+[submodule "SNETCracker"]
+	path = SNETCracker
+	url = https://github.com/shack2/SNETCracker.git

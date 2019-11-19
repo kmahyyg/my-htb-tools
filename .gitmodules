@@ -151,3 +151,6 @@
 [submodule "SNETCracker"]
 	path = SNETCracker
 	url = https://github.com/shack2/SNETCracker.git
+[submodule "adon90_pentest_notepkg"]
+	path = adon90_pentest_notepkg
+	url = https://github.com/adon90/pentest_compilation

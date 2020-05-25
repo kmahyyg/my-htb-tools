@@ -157,3 +157,6 @@
 [submodule "ad-ldap-enum"]
 	path = ad-ldap-enum
 	url = https://github.com/CroweCybersecurity/ad-ldap-enum
+[submodule "kerberoast"]
+	path = kerberoast
+	url = git@github.com:nidem/kerberoast.git

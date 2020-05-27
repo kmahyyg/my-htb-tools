@@ -160,3 +160,9 @@
 [submodule "kerberoast"]
 	path = kerberoast
 	url = git@github.com:nidem/kerberoast.git
+[submodule "gitleaks"]
+	path = gitleaks
+	url = https://github.com/zricethezav/gitleaks
+[submodule "gitrob"]
+	path = gitrob
+	url = https://github.com/michenriksen/gitrob

@@ -163,3 +163,6 @@
 [submodule "gitrob"]
 	path = gitrob
 	url = https://github.com/michenriksen/gitrob
+[submodule "odat"]
+	path = odat
+	url = https://github.com/quentinhardy/odat

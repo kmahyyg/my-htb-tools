@@ -130,9 +130,6 @@
 [submodule "ysoserial_aspnet"]
 	path = ysoserial_aspnet
 	url = https://github.com/pwntester/ysoserial.net
-[submodule "odat"]
-	path = odat
-	url = git@github.com:quentinhardy/odat.git
 [submodule "py2_pret"]
 	path = py2_pret
 	url = https://github.com/RUB-NDS/PRET

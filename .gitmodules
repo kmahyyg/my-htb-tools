@@ -166,3 +166,6 @@
 [submodule "odat"]
 	path = odat
 	url = https://github.com/quentinhardy/odat
+[submodule "AJPy"]
+	path = AJPy
+	url = https://github.com/hypn0s/AJPy

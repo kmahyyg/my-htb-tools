@@ -172,3 +172,6 @@
 [submodule "exphub"]
 	path = exphub
 	url = https://github.com/zhzyker/exphub
+[submodule "privesc-awesome-scripts"]
+	path = privesc-awesome-scripts
+	url = https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git

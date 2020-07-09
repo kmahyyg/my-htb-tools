@@ -175,3 +175,6 @@
 [submodule "privesc-awesome-scripts"]
 	path = privesc-awesome-scripts
 	url = https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git
+[submodule "BloodHound"]
+	path = BloodHound
+	url = https://github.com/BloodHoundAD/BloodHound

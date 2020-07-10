@@ -175,3 +175,6 @@
 [submodule "BloodHound"]
 	path = BloodHound
 	url = https://github.com/BloodHoundAD/BloodHound
+[submodule "odat"]
+	path = odat
+	url = https://github.com/quentinhardy/odat

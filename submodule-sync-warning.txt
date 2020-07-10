@@ -1,1 +1,5 @@
 odat default upstream is: origin master-python3
+
+git add .; git reset --hard; git checkout master; git pull; git submodule set-branch --branch master -- .; pwd; cd ..
+
+git submodule update --remote

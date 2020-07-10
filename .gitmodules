@@ -178,3 +178,6 @@
 [submodule "BloodHound"]
 	path = BloodHound
 	url = https://github.com/BloodHoundAD/BloodHound
+[submodule "Umbraco-RCE-7.12.4"]
+	path = Umbraco-RCE-7.12.4
+	url = https://github.com/noraj/Umbraco-RCE

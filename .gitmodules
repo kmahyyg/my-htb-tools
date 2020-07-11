@@ -178,3 +178,7 @@
 [submodule "odat"]
 	path = odat
 	url = https://github.com/quentinhardy/odat
+[submodule "lxd-alpine-builder"]
+	path = lxd-alpine-builder
+	url = https://github.com/saghul/lxd-alpine-builder.git
+	branch = master

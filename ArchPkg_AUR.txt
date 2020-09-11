@@ -1,9 +1,0 @@
-aic94xx-firmware
-masscan-git
-python2-ajpy
-python2-pydns
-ruby-erubis
-ruby-xdg
-tmuxinator
-virt-what
-wd719x-firmware

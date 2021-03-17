@@ -8,6 +8,7 @@ from pyftpdlib.authorizers import DummyAuthorizer
 import argparse
 import os
 import logging
+import requests
 import pathlib
 
 logging.basicConfig(level=logging.DEBUG)
@@ -35,6 +36,11 @@ def premain():
     return res
 
 
+def get_myip():
+    r = requests.get("http://ip.sb", headers={"User-Agent": "curl/7.29.0"})
+    print(r.text)
+    return r.text
+
 def main(res):
     creds = res[0]
     runargs = res[1]
@@ -54,6 +60,8 @@ def main(res):
             authorization.add_user(i[0], i[1], homedir=servroot, perm="elradfmwMT")
     hand = FTPHandler
     hand.authorizer = authorization
+    hand.masquerade_address = get_myip()
+    hand.passive_ports = range(57000,58000)
     hand.banner = "Welcome To My FTP"
     address = ('', runargs.port)
     server = FTPServer(address, hand)

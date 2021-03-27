@@ -182,3 +182,6 @@
 	path = lxd-alpine-builder
 	url = https://github.com/saghul/lxd-alpine-builder.git
 	branch = master
+[submodule "Blacklist3r"]
+	path = Blacklist3r
+	url = https://github.com/NotSoSecure/Blacklist3r
